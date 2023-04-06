@@ -1,10 +1,10 @@
 # Project Name
 
-Morse Code Message
+MyEnumerable
 
 # Description the project.
 
-Simple Decoder for Morse messages.
+In this project, we used Ruby module inside a class
 
 ## Built With
 
@@ -14,21 +14,21 @@ Simple Decoder for Morse messages.
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Johnadibe/decode_morse_code.git>
+- Clone this repo <https://github.com/Johnadibe/enumerables.git>
 
   ```bash
-  git clone https://github.com/Johnadibe/decode_morse_code.git
+  git clone https://github.com/Johnadibe/enumerables.git
   ```
 
-- Navigate to decode_morse_code folder/directory
+- Navigate to enumerables folder/directory
 
   ```bash
-  cd decode_morse_feature
+  cd enumerables
   ```
 
 - On the command line, at the project's root, run `bundle install` to install app dependencies
 
-- Next, run `ruby decode_morse_code.rb` which will run the app in the development mode.
+- Next, run `ruby class.rb` which will run the app in the development mode.
 
 ## Authors
 
@@ -41,7 +41,7 @@ Simple Decoder for Morse messages.
 👤 **Ram Kumar Karuppusamy**
 
 - GitHub: [@ram1117](https://github.com/ram1117)
-- LinkedIn: [@John Adibe](https://www.linkedin.com/in/ram-kumar-karuppusamy/)
+- LinkedIn: [@ram kumar karuppusamy](https://www.linkedin.com/in/ram-kumar-karuppusamy/)
 
 ## 🤝 Contributing
 
